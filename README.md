@@ -6,7 +6,8 @@
  - ✨ My Other Interests are WebDevelopment and UI/UX
  - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/kishankrs/), <kishankrs21@gmail.com>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishankrs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishankrs&count_private=true&show_icons=true)
+.)
 
 
 <!--
