@@ -4,7 +4,7 @@
  - 👨🏻‍🚀 I always like to keep beginner's mindset and be curious
  - 💬 Ask me about Embedded systems, IoT, Microcontrollers
  - ✨ My Other Interests are Web Development and UI/UX
- - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/kishankrs/) , [Twitter](https://twitter.com/kishankrs_) , <kishankr@outlook.com>
+ - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/kishankrs/) , [Twitter](https://twitter.com/kishankrs_) , <kishankrs@outlook.com>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishankrs&count_private=true&show_icons=true&theme=highcontrast)
 
