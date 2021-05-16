@@ -5,6 +5,10 @@
  - 💬 Ask me about Embedded systems, IoT, Microcontrollers
  - ✨ My Other Interests are WebDevelopment and UI/UX
  - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/kishankrs/), <kishankrs21@gmail.com>
+
+[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishankrs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kishankrs/kishankrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
