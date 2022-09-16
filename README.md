@@ -1,5 +1,5 @@
 ### Hi, I am Kishan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- - 🤖 I’m currently learning Embedded Firmware development
+ - 🤖 I’m currently learning Embedded Firmware and Hardware development
  - 🤝🏻 I’m looking to collaborate on Embedded/IoT projects
  - 👨🏻‍🚀 I always like to keep beginner's mindset and be curious
  - 💬 Ask me about Embedded systems, IoT, Microcontrollers
